@@ -11,6 +11,7 @@ matches = len(d)
 unique = len(c)
 a_total = len(a)
 b_total = len(b)
+
 print('Results:')
 print(c)
 print('List A total: ', a_total)
