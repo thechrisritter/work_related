@@ -1,4 +1,4 @@
-# A simple code I used to collect simple data from thosands of items in two lists.
+# A simple code I used to collect simple data from thousands of items in two lists.
 # Please feel free to help make this more Pythonic.
 # I want to update this so that a and b pull from csv files instead of lists.
 a = [1, 2, 3, 4]
